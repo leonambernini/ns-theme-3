@@ -1,0 +1,7 @@
+primary
+	name = Primeira vitrine da página inicial
+	description = Los productos aparecen destacados en la página de inicio (hasta 40 productos).
+
+secondary
+	name = Segunda vitrine da página inicial
+	description = Os produtos irão aparecer na segunda vitrine da home (apenas 40 produtos).
